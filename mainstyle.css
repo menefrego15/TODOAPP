@@ -1,0 +1,58 @@
+
+
+.NAME {
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.ask {
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif !important;
+    margin-top: 10%;
+}
+
+.inputTodo {
+    position: absolute;
+    background: black;
+    color: white;
+    margin-top: 00px;
+    border-style: none;
+    border-radius: 9px;
+    width: 70%;
+    height: 35px;
+    text-align: center;
+}
+
+
+.contain {
+    background: black;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 15px;
+    height: 50vh;
+}
+
+.buttonstyle {
+    margin-left: 78%;
+}
+
+button:focus {
+    outline: none;
+}
+
+input:focus {
+    outline: none;
+}
+
+::placeholder {
+    color: rgba(255, 255, 255, 0);
+}
+
+.todoText {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+}

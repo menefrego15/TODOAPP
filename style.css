@@ -1,0 +1,43 @@
+.title{
+    margin-top: 30%;
+}
+
+.titre {
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 20px;
+}
+
+.inputName {
+    text-align: center;
+    margin-top: 5%;
+    background: white;
+    color: black;
+    width: 50%;
+    height: 40px;
+    border-color: black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+input:focus {
+    outline: none;
+}
+
+::placeholder {
+    color: rgba(0, 0, 0, 0.705);
+}
+
+
+
+.btn-start {
+    margin-top: 40%;
+    background-color: black;
+    border-style: none;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    width: 70px;
+    height: 30px;
+    font-size: 10px;
+}
